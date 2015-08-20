@@ -13,7 +13,9 @@
   "files": [
     "LICENSE",
     "index.js",
-    "mocha.js"
+    "mocha.js",
+    "base.eslint.json",
+    "mocha.eslint.json"
   ],
   "scripts": {},
   "dependencies": {},
