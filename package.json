@@ -12,8 +12,10 @@
   "main": "index.js",
   "files": [
     "LICENSE",
+    "es5.js",
     "index.js",
     "mocha.js",
+    "es5.eslint.json",
     "base.eslint.json",
     "mocha.eslint.json"
   ],
