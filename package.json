@@ -1,6 +1,6 @@
 {
   "name": "@phated/eslint-config-iceddev",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Iced Dev's shared ESLint configuration",
   "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com)",
   "contributors": [],
