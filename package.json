@@ -1,10 +1,10 @@
 {
-  "name": "@phated/eslint-config-iceddev",
+  "name": "@leadgumshoe/eslint-config",
   "version": "0.2.1",
-  "description": "Iced Dev's shared ESLint configuration",
-  "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com)",
+  "description": "Lead Gumshoes's shared ESLint configuration",
+  "author": "Blaine Bublitz <blaine.bublitz@gmail.com>",
   "contributors": [],
-  "repository": "iceddev/eslint-config-iceddev",
+  "repository": "leadgumshoe/eslint-config",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"
