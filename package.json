@@ -1,6 +1,6 @@
 {
   "name": "@leadgumshoe/eslint-config",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Lead Gumshoes's shared ESLint configuration",
   "author": "Blaine Bublitz <blaine.bublitz@gmail.com>",
   "contributors": [],
